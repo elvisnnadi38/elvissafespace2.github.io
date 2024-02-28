@@ -1,0 +1,23 @@
+.section2{
+    background-color: rgb(192, 192, 192);
+    margin-top: 5%;
+}
+
+.img img{
+    margin-top: 10%;
+    border-radius: 1%;
+    border-color: black;
+    border-style: groove;
+    width: 49%;
+    margin-left: 26%;
+    margin-bottom: 1%;
+}
+
+
+
+
+@media only screen and (max-width: 600px){
+    img img{
+        width: 20%;
+    }
+}
